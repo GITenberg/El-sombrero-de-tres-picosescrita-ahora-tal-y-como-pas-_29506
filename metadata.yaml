@@ -26,6 +26,8 @@ creator:
     gutenberg_agent_id: '33953'
     url: http://www.gutenberg.org/2009/agents/33953
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29506#El-sombrero-de-tres-picosescrita-ahora-tal-y-como-pas-
 gutenberg_issued: '2009-07-25'
 gutenberg_type: Text
 identifiers:
